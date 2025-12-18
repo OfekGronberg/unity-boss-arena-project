@@ -61,5 +61,12 @@ Visual polish and content scope were intentionally kept minimal in order to focu
 
 ---
 
-## 📁 Project Structure
+## How to Run
+
+1. Clone the repository
+2. Open **Unity Hub**
+3. Click **Add project**
+4. Select the project root folder
+5. Open with **Unity 2022.x LTS** (or your exact version)
+6. Press **Play**
 
